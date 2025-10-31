@@ -4,7 +4,7 @@
 ---
 
 ### 🌟 About Me
-🚀 Passionate **Data Scientist & AI Engineer** with experience in developing and deploying end-to-end **Machine Learning** and **AI solutions**.  
+🚀 Passionate **Data Scientist & AI Engineer** with experience in deploying end-to-end **Machine Learning** and **AI solutions**.  
 💡 Skilled in **NLP, Computer Vision, LLMs, and Predictive Modeling**, with a focus on applying AI to solve real-world challenges.  
 🌍 Enthusiastic about **intelligent automation, AI-driven decision systems**, and **healthcare data applications**.  
 🎯 Always learning, experimenting, and pushing boundaries in **Artificial Intelligence** and **Data Science**.
