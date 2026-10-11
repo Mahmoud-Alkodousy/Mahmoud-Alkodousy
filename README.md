@@ -1,10 +1,6 @@
 <h1 align="center">Hey 👋, I'm Mahmoud Khalid Alkodousy</h1>
 <h3 align="center">🧠 Data Scientist & AI Engineer | Building Intelligent Data-Driven Systems</h3>
 
-<p align="center">
-  <a href="https://als-students.mahmoud-alkodousy.workers.dev/">ALS Students Websites</a>
-</p>
-
 ---
 
 ### 🌟 About Me
